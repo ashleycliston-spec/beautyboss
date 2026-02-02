@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SalonSync Manager",
+  "description": "A comprehensive management platform for salon owners and independent stylists, featuring scheduling, payment tracking, tax estimation, and business analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
